@@ -168,6 +168,7 @@ nav ul.recipes li {
 
 .book main .main-inner {
   padding: 40px 40px 40px 20px;
+  height: 100%;
 }
 
 .book main .main-inner ul {
@@ -190,6 +191,7 @@ h3 a {
 
 iframe {
   border: 0;
+  height: 100%;
 }
 
 .book main .text-page {
